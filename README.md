@@ -1,1 +1,1 @@
-# TensorflowのCNNチュートリアルとほぼ同一です。
+#TensorflowのCNNチュートリアルをほぼそのまま写経しただけ
